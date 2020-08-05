@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: prod
+  thymeleaf:
+    mode: HTML
+server:
+  port: 8081

@@ -1,0 +1,16 @@
+.my-btn {
+    background-color: rgba(55, 190, 255, 0.4) !important;
+    color: #fff !important;
+    font-size: 16px !important;
+    padding: 1px 15px !important;
+    border-radius: 5px !important;
+    border: none !important
+}
+.my-content {
+    overflow: hidden !important;
+    display: -webkit-box !important;
+    text-overflow: ellipsis !important;
+    -webkit-line-clamp: 3 !important;
+    -webkit-box-orient: vertical !important;
+    font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif; !important ;
+}
